@@ -1,0 +1,15 @@
+.comps-input {
+	width: 100%;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 0.45rem 0.95rem;
+	font-size: 0.976rem;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 200;
+	outline: none;
+	margin: 1rem 0;
+}
+.comps-input:focus {
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.12);
+}

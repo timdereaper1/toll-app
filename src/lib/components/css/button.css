@@ -1,0 +1,15 @@
+.comps-btn {
+	padding: 0.75rem 0.95rem;
+	border: none;
+	border-radius: 5px;
+	background: rgb(230, 107, 25);
+	font-size: 0.999rem;
+	text-transform: uppercase;
+	font-weight: 300;
+	color: white;
+	outline: none;
+	margin: 1rem 0;
+}
+.comps-btn:active {
+	box-shadow: 3px 4px 6px rgba(0, 0, 0, 0.25) inset;
+}
